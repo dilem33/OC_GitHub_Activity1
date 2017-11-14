@@ -14,3 +14,7 @@ git log
 git push
 git pull
 etc ...
+
+Ajout de fichier : 
+
+Le fichier "add.html.twig" présente une vue issu d'un projet symfony.
