@@ -3,7 +3,7 @@
 
 Activité 1 : 
 
-Le but de cet exercice est de mettre en pratique les connaissances acquises au cours depuis le début de ce tutoriel.
+Le but de cet exercice est de mettre en pratique les connaissances acquises depuis le début de ce tutoriel.
 Les commandes de bases de GIT seront utilisées.
 Je peux citer, entre autre :
 git clone
